@@ -46,9 +46,9 @@ var isDiplomaEnabled  = true;
 
 // Пути к нужным фото    ?timestamp=N   "photo.jpg?timestamp=N" динамически: var url = "photo.jpg?timestamp=" + N;
 
-var photo_passport = "1.jepg"; //эДок, паспорт,
-var photo_rights   = "1.jepg"; //права
-var photo_students = "1.jepg"; //диплом, студ
-var photo_zagran   = "1.jepg"; //загран
+var photo_passport = "1.jpeg"; //эДок, паспорт,
+var photo_rights   = "1.jpeg"; //права
+var photo_students = "1.jpeg"; //диплом, студ
+var photo_zagran   = "1.jpeg"; //загран
 // Можно добавить еще, если надо
 
